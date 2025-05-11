@@ -1,0 +1,108 @@
+{
+  "landingpage": {
+    "start": "Inicio",
+    "learnMore": "Conoce más",
+    "aboutUs": "Acerca de Nosotros",
+    "login": "Iniciar sesion",
+    "signUp": "Registrarse",
+
+    "slogan": "Comunícate con gestos, con facilidad",
+    "description": "Con SmartSign, accede a una variedad de herramientas que te permitan traducir lenguaje de señas con facilidad.",
+
+    "learnMoreTitle": "Traduce lo que quieras, como quieras",
+    "learnMoreDesc": "Podrás traducir tanto señas como lenguaje verbal, dependiendo de tu uso.",
+
+    "imageGallery1": "Traducción de señas a lenguaje verbal con accesorios personalizados",
+    "imageGallery2": "Guarda tus traducciones realizadas",
+    "imageGallery3": "Aprende más sobre el lenguaje de señas",
+
+    "servicesCat": "Traduce y aprende",
+    "availableServices": "Estos son los servicios que puedes encontrar en SmartSign\n\n",
+
+    "testimonialsTitle": "Nuestros Testimonios",
+    "testimonialSubtitle": "Lea lo que opinan nuestros clientes acerca de SmartSign",
+
+    "plansTitle": "Tenemos los siguientes planes para ti",
+
+    "faqTitle": "Escríbenos una pregunta",
+    "faqDescription": "¿Tienes una duda? Contáctanos directamente llenando este formulario e intentaremos resolver tu duda lo antes posible.",
+    "questionsSection": "¿Tienes preguntas?",
+    "Suscríbete": "Suscríbete",
+    "copyright": "© Copyright 2025 - SmartSign | Todos los derechos reservados | Avenida La Molina 234"
+  },
+  "services": {
+    "transGest": "Traducción de Gestos",
+    "transText": "Traducción de Texto a Gestos",
+    "history": "Historial de traducciones",
+    "courses": "Aprende Lenguaje de Señas"
+  },
+  "testimonial1": {
+    "name": "Daniel Velarde",
+    "role": "Profesor de niños sordomudos",
+    "quote": "\"Como profesor, esta plataforma me ayudó a capacitar a los padres de familia sobre cómo usar efectivamente el lenguaje de señas con sus hijos.\""
+  },
+  "testimonial2": {
+    "name": "Susana Almeida",
+    "role": "Amiga de persona sordomuda",
+    "quote": "\"SmartSign me ayudó a aprender con mayor fluidez el lenguaje de señas para poder entablar una conversación con mi amiga.\""
+  },
+  "testimonial3": {
+    "name": "Samuel De Luque",
+    "role": "Estudiante de Lingüística y Literatura",
+    "quote": "\"Con esta herramienta se me hizo más fácil aprender el lenguaje de señas para un curso electivo que estoy llevando en la universidad.\""
+  },
+  "plans": {
+    "free": "Gratis S/. 0 al mes",
+    "premium": "Premium S/. al mes"
+  },
+  "featuresFree":{
+    "feature1": "Acceso limitado al servicio de traducción",
+    "feature2":"Máximo de 5 traducciones guardadas",
+    "feature3": "Sin acceso al material de estudio complementario"
+  },
+  "featuresPremium":{
+    "feature1": "Acceso completo al servicio de traduccion",
+    "feature2": "Sin límite de traducciones guardadas",
+    "feature3": "Acceso al material de estudio complementario"
+  },
+  "contactInfo": {
+    "title": "Canales de Contacto",
+    "subtitle": "Soporte con ayuda de los mejores asesores",
+    "email": "Correo Electrónico",
+    "emailContent": "support@smartsign.com",
+    "phone": "Teléfono",
+    "phoneContent": "+51 999 999 999",
+    "location": "Ubicación",
+    "locationContent": "La Molina, Perú",
+    "question": "Escríbanos una pregunta",
+    "questionContent": "Preguntas frecuentemente hechas (FAQ)"
+  },
+  "formLabels": {
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "subject": "Tema",
+    "message": "Mensaje",
+    "send": "Enviar"
+  },
+  "footer": {
+    "company": "Empresa",
+    "getHelp": "Obtén ayuda",
+    "community": "Comunidad",
+    "followUs": "Síguenos",
+    "getApp": "OBTÉN LA APLICACIÓN"
+  },
+  "appLinks": {
+    "googlePlay": "logo_googlePlay"
+  },
+  "aboutUs": {
+    "introduction": "Work in progress",
+    "value1": "Innovación: Siempre estamos explorando nuevas formas de mejorar la experiencia de aprendizaje y ayudar a los estudiantes a prosperar.",
+    "value2": "Integridad: Creemos en ofrecer una educación honesta y de alta calidad, fomentando una cultura de confianza.",
+    "value3": "Compromiso: Estamos dedicados al éxito de nuestros estudiantes y al crecimiento de sus habilidades, brindando apoyo continuo a lo largo del camino.",
+    "aboutus": "Sobre nosotros",
+    "ourvalues": "Nuestros valores",
+    "videoproduct": "Aprende más sobre el producto",
+    "videoteam": "Aprende más sobre el grupo"
+  }
+}

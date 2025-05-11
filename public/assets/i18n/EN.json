@@ -1,0 +1,112 @@
+{
+  "landingpage": {
+    "start": "Home",
+    "learnMore": "Learn more",
+    "aboutUs": "About Us",
+    "login": "Log In",
+    "signUp": "Sign up",
+
+    "slogan": "Communicate with signs, with ease",
+    "description": "With SmartSign, access a variety of tools that allow you to easily translate sign language",
+
+    "learnMoreTitle": "Translate what you want, how you want it",
+    "learnMoreDesc": "You will be able to translate both signs and verbal language, depending on your usage.",
+
+    "imageGallery1": "Translation of signs into verbal language with personalized accessories",
+    "imageGallery2": "Save your completed translations",
+    "imageGallery3": "Learn more about sign language",
+
+    "servicesCat": "Translate and learn",
+    "availableServices": "These are the services that you can find on SmartSign\n\n",
+
+    "testimonialsTitle": "Our Testimonials",
+    "testimonialSubtitle": "Read what our customers say about SmartSign",
+
+    "plansTitle": "We have the following plans for you",
+
+    "faqTitle": "Write us a question",
+    "faqDescription": "Have a question? Contact us directly by filling out this form, and we will try to resolve your question as soon as possible.",
+    "contactTitle": "Contact Channels",
+    "questionsSection": "Do you have questions?",
+    "Suscríbete": "Subscribe",
+    "copyright": "© Copyright 2025 - SmartSign | All rights reserved | Avenida La Molina 234"
+  },
+  "services": {
+    "transGest": "Gesture Translation",
+    "transText": "Text-to-Gesture Translation",
+    "history": "Translation Archive",
+    "courses": "Learn Sign Language"
+  },
+  "testimonial1": {
+    "name": "Daniel Velarde",
+    "role": "Teacher of deaf-mute children",
+    "quote": "\"As a teacher, this platform helped me train parents on how to effectively use sign language with their children.\""
+  },
+  "testimonial2": {
+    "name": "Susana Almeida",
+    "role": "Friend of a deaf-mute person",
+    "quote": "\"SmartSign helped me learn sign language more fluently so I could have a conversation with my friend.\""
+  },
+  "testimonial3": {
+    "name": "Samuel De Luque",
+    "role": "Linguistics and Literature student",
+    "quote": "\"This tool made it easier for me to learn sign language for an elective course I'm taking at university.\""
+  },
+  "plans": {
+    "free": "Free S/. 0 per month",
+    "premium": "Premium S/. 20 per month"
+  },
+  "featuresFree":{
+    "feature1": "Limited access to translation services",
+    "feature2": "Maximum of 5 saved translations",
+    "feature3": "No access to supplementary study material"
+  },
+  "featuresPremium":{
+    "feature1": "Unlimited access to translation services",
+    "feature2": "Unlimited saved translations",
+    "feature3": "Access to supplementary study material"
+  },
+  "contactInfo": {
+    "title": "Contact Channels",
+    "subtitle": "Support with the best team of associates",
+    "email": "Email",
+    "emailContent": "support@smartsign.com",
+    "phone": "Phone",
+    "phoneContent": "+51 999 999 999",
+    "location": "Location",
+    "locationContent": "La Molina, Perú",
+    "question": "Write us a question",
+    "questionContent": "Frequently Asked Questions (FAQ)"
+  },
+  "formLabels": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send"
+  },
+  "footer": {
+    "company": "Company",
+    "getHelp": "Get Help",
+    "community": "Community",
+    "followUs": "Follow us",
+    "getApp": "GET THE APP"
+  },
+  "appLinks": {
+    "googlePlay": "logo_googlePlay"
+  },
+  "aboutUs": {
+    "introduction": "Work in progress",
+    "value1": "Innovation: We are constantly exploring new ways to enhance the learning experience and help students thrive.",
+    "value2": "Integrity: We believe in delivering honest, high-quality education and fostering a culture of trust.",
+    "value3": "Commitment: We are dedicated to the success of our learners and the growth of their skills, providing continuous support along the way.",
+    "aboutus": "About us",
+    "ourvalues": "Our values",
+    "videoproduct": "Learn more about the product",
+    "videoteam": "Learn more about the team"
+  }
+}
+
+
+
